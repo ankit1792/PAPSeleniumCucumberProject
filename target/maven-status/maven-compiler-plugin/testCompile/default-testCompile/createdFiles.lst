@@ -1,0 +1,7 @@
+pageObjects\CatalogPage.class
+pageObjects\LoginPage.class
+hookStepDefinitions\HooksBasedSteps.class
+testRunner\TestRun.class
+StepDefinitions\LoginSteps.class
+pageObjects\AddCustomerPage.class
+stepsDefinitions\Steps.class
